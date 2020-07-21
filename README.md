@@ -9,6 +9,7 @@ Looking for my first Junior * Developer job.</p>
 * ⚙️ Knowledge of: `.js`, `.html`, `.css`, `.cpp`, `.java`, `.sql`, `.php`
 * 😀 I like *swimming, travelling, photography and coding of course.*
 * ⚡ Fun fact: *I love caffeinated drinks*
-* 💬 Ask me about **anything** 
+* 💬 Ask me about **anything**
+* 📫 Reach me: <a href="https://www.facebook.com/piotr.wrobel.99">facebook</a> • <a href="https://www.instagram.com/piotr_wrobel_/">instagram</a> • <a href="https://dev.to/ajiiz">dev.to</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajiiz" alt="ajiiz" /> </p>

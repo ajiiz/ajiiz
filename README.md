@@ -1,8 +1,8 @@
 <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
-<p>I'm Piotr Wrobel.</p>
-<p>IT student at University of Silesia.</p> 
-<p>Looking for my first Junior * Developer job. </p>
-<p>Programming, photography, travelling and caffeinated drinks lover.</p>
+<p>I'm Piotr Wrobel.<br />
+IT student at University of Silesia.<br />
+Looking for my first Junior * Developer job.<br />
+Programming, photography, travelling and caffeinated drinks lover.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajiiz" alt="ajiiz" /> </p>
 

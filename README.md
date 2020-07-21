@@ -4,11 +4,11 @@ IT student at University of Silesia.<br />
 Looking for my first Junior * Developer job.</p>
 
 <h2>About</h2>
--🌱 I’m currently learning **React**
--🔭 I’m currently working on [ScheduleApp](https://github.com/ajiiz/schedule-maker-react-app)
--💬 Ask me about **ambition** 
--😀 I like *swimming, travelling, photography and coding of course.*
--⚡ Fun fact: *I love caffeinated drinks*
+- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on [ScheduleApp](https://github.com/ajiiz/schedule-maker-react-app)
+- 💬 Ask me about **ambition** 
+- 😀 I like *swimming, travelling, photography and coding of course.*
+- ⚡ Fun fact: *I love caffeinated drinks*
 
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ajiiz&show_icons=true" alt="ajiiz" /> </p>
 

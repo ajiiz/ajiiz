@@ -3,7 +3,7 @@
 IT student at University of Silesia.<br />
 Looking for my first Junior * Developer job.</p>
 
-### About
+## About
 * 🌱 I’m currently learning **React**
 * 🔭 I’m currently working on [ScheduleApp](https://github.com/ajiiz/schedule-maker-react-app)
 * 💬 Ask me about **ambition** 

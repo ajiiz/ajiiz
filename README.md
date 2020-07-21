@@ -1,8 +1,9 @@
 <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
-I'm Piotr Wrobel.
-IT student at University of Silesia. 
-Looking for my first Junior * Developer job. 
-Programming, photography, travelling and caffeinated drinks lover.
+<p>I'm Piotr Wrobel.</p>
+<p>IT student at University of Silesia.</p> 
+<p>Looking for my first Junior * Developer job. </p>
+<p>Programming, photography, travelling and caffeinated drinks lover.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajiiz" alt="ajiiz" /> </p>
 
 - 🔭 I’m currently working on [ScheduleApp](https://github.com/ajiiz/schedule-maker-react-app)

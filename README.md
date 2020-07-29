@@ -6,7 +6,7 @@ Looking for my first Junior * Developer job.</p>
 ## About
 * I’m currently learning **React**.
 * I’m currently working on [Portfolio](https://github.com/ajiiz/portfolio-react-app).
-* Knowledge of: `.js`, `.html`, `.css`, `.cpp`, `.java`, `.sql`, `.php`.
+* Knowledge of: `.js`, `.html`, `.css`, `.cpp`, `.java`, `.sql`
 * I like *swimming, travelling, photography and coding of course.*
 * Fun fact: *I love caffeinated drinks.*
 * Ask me about **anything**.

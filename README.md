@@ -1,4 +1,4 @@
-<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <𝚌𝚘𝚍𝚎𝚛𝚜 />!</h2>
+<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 </h2>
 <p>I'm Piotr Wrobel.<br />
 IT student at University of Silesia.<br />
 Looking for my first Junior * Developer job.</p>

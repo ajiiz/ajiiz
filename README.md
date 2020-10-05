@@ -6,7 +6,7 @@ Looking for my first Junior * Developer job.</p>
 ## About
 * I’m currently learning **React**.
 * I’m currently working on [Plant Spot](https://github.com/ajiiz/plants-react-app).
-* Knowledge of: `.js`, `.html`, `.css`
+* Knowledge of: `.js`, `.html`, `.css`, `.py`
 * Small touch of: `.cpp`, `.java`, `.sql`
 * I like *swimming, travelling, photography and coding of course.*
 * Fun fact: *I love caffeinated drinks.*

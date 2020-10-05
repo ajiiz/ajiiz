@@ -11,4 +11,4 @@ Looking for my first Junior * Developer job.</p>
 * I like *swimming, travelling, photography and coding of course.*
 * Fun fact: *I love caffeinated drinks.*
 * Ask me about **anything**.
-* Reach me on: • <a href="https://www.instagram.com/pvvrbl/">instagram</a> • <a href="https://dev.to/ajiiz">dev.to</a> •
+* Reach me on: • <a href="https://www.instagram.com/pvvrbl/">instagram</a> •

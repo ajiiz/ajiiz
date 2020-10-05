@@ -10,5 +10,4 @@ Looking for my first Junior * Developer job.</p>
 * Small touch of: `.cpp`, `.java`, `.sql`, `.py`
 * I like *swimming, travelling, photography and coding of course.*
 * Fun fact: *I love caffeinated drinks.*
-* Ask me about **anything**.
 * Reach me on: • <a href="https://www.instagram.com/pvvrbl/">instagram</a> •

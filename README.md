@@ -5,7 +5,8 @@ Looking for my first Junior * Developer job.</p>
 
 ## About
 * I’m currently learning **React**.
-* I’m currently working on [Plant Spot](https://github.com/ajiiz/plants-react-app).
+* I’m currently working on *null*.
+* Recently made [Plant Spot](https://github.com/ajiiz/plants-react-app)
 * Regularly used: `.html`, `.css`, `.js`
 * Rarely used: `.cpp`, `.java`, `.sql`, `.py`
 * I like *swimming, travelling, photography and coding of course.*

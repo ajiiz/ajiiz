@@ -1,7 +1,7 @@
 <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 </h2>
 <p>I'm Piotr Wrobel.<br />
 IT student at University of Silesia.<br />
-Looking for my first Junior * Developer job.</p>
+Mainly interested in Web Development</p>
 
 ## About
 * I’m currently learning **React**.

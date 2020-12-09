@@ -6,7 +6,7 @@ Mainly interested in Web Development</p>
 ## About
 * I’m currently learning **React**.
 * I’m currently working on *null*.
-* Recently made [Plant Spot](https://github.com/ajiiz/plants-react-app) • [Travel Tour Landing Page](travel-tour-website.netlify.app/)
+* Recently made [Plant Spot](https://github.com/ajiiz/plants-react-app) • [Travel Tour Landing Page](https://github.com/ajiiz/travel-tour-website)
 * Regularly used: `.html`, `.css`, `.js`
 * Rarely used: `.cpp`, `.java`, `.sql`, `.py`
 * I like *swimming, travelling, photography and coding of course.*

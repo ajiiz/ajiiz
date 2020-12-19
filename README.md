@@ -7,8 +7,8 @@ Mainly interested in Web Development</p>
 * I’m currently learning **React**.
 * I’m currently working on *portfolio/blog website*.
 * Recently made [Plant Spot](https://github.com/ajiiz/plants-react-app) • [Travel Tour Landing Page](https://github.com/ajiiz/travel-tour-website)
-* Regularly used: `.html`, `.css`, `.scss`,  `.js`
-* Rarely used:  `.java`, `.cpp`, `.sql`, `.py`
+* Regularly used: `.html`, `.css`, `.scss`,  `.js`, `.java`
+* Rarely used: `.cpp`, `.sql`, `.py`
 * I like *swimming, travelling, photography and coding of course.*
 * Fun fact: *I love caffeinated drinks.*
 * Contact me via e-mail: • piotrwrobel.ajiiz@gmail.com •

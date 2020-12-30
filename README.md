@@ -10,6 +10,6 @@ Mainly interested in Web Development</p>
 * Regularly used: `.html`, `.css`, `.scss`,  `.js`, `.java`
 * Rarely used: `.cpp`, `.sql`, `.py`
 * I like *swimming, travelling, photography and coding of course.*
-* Fun fact: *I love caffeinated drinks.*
+* Fun fact: *I love `sugar free` caffeinated drinks.*
 * Contact me via e-mail: • piotrwrobel.ajiiz@gmail.com •
 * DM me on ig: • <a href="https://www.instagram.com/pvvrbl/">instagram</a> •

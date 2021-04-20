@@ -5,7 +5,7 @@ Mainly interested in Web Development.</p>
 
 ## About
 * I’m currently learning **React**.
-* I’m currently working on *portfolio/blog website*.
+* I’m currently working on *portfolio website*.
 * Recently made
 
   1. pw-ajiiz-blog (MERN Stack) - [Live Version](https://pw-ajiiz-blog.netlify.app/) • [Repository](https://github.com/ajiiz/pw-ajiiz-blog)

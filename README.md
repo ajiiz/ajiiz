@@ -10,9 +10,9 @@ Mainly interested in Web Development.</p>
 
   1. pw-ajiiz-blog (MERN Stack) - [Live Version](https://pw-ajiiz-blog.netlify.app/) • [Repository](https://github.com/ajiiz/pw-ajiiz-blog)
   
-  2. plant-spot -  [Live Version](plantspot.netlify.app/) • [Repository](https://github.com/ajiiz/plants-react-app) 
+  2. plant-spot (Static Site with API calls) - [Live Version](https://plantspot.netlify.app/) • [Repository](https://github.com/ajiiz/plants-react-app) 
   
-  3. [Travel Tour Landing Page](https://github.com/ajiiz/travel-tour-website)
+  3. travel tour (Static Site) - [Live Version](https://travel-tour-website.netlify.app/) • [Repository](https://github.com/ajiiz/travel-tour-website)
 
 * Regularly used: `.js` `.scss` `.py`
 * Rarely used: `.java` `.cpp` `.sql`

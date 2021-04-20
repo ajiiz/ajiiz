@@ -8,11 +8,11 @@ Mainly interested in Web Development.</p>
 * I’m currently working on *portfolio/blog website*.
 * Recently made
 
-  1.pw-ajiiz-blog (MERN Stack) - [Live Version](https://pw-ajiiz-blog.netlify.app/) • [Repository](https://github.com/ajiiz/pw-ajiiz-blog)
+  1. pw-ajiiz-blog (MERN Stack) - [Live Version](https://pw-ajiiz-blog.netlify.app/) • [Repository](https://github.com/ajiiz/pw-ajiiz-blog)
   
-  2.[Plant Spot](https://github.com/ajiiz/plants-react-app)  •  
+  2. [Plant Spot](https://github.com/ajiiz/plants-react-app)  •  
   
-  3.[Travel Tour Landing Page](https://github.com/ajiiz/travel-tour-website)
+  3. [Travel Tour Landing Page](https://github.com/ajiiz/travel-tour-website)
 
 * Regularly used: `.js` `.scss` `.py`
 * Rarely used: `.java` `.cpp` `.sql`

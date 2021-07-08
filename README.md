@@ -11,10 +11,12 @@ Mainly interested in Web Development.</p>
   1. pw-ajiiz-blog (MERN Stack) - [Live Version](https://pw-ajiiz-blog.netlify.app/) • [Repository](https://github.com/ajiiz/pw-ajiiz-blog)
   
   2. niteczki-daneczki - [Live Version](https://niteczki-daneczki.netlify.app/) • [Repository](https://github.com/ajiiz/niteczki-daneczki-website)
+
+  3. room-homepage - [Live Version](https://room-home-ajiiz.netlify.app/home) • [Repository](https://github.com/ajiiz/room-homepage-react)
   
-  3. plant-spot (Static Site with API calls) - [Live Version](https://plantspot.netlify.app/) • [Repository](https://github.com/ajiiz/plants-react-app) 
+  4. plant-spot (Static Site with API calls) - [Live Version](https://plantspot.netlify.app/) • [Repository](https://github.com/ajiiz/plants-react-app) 
   
-  4. travel tour (Static Site) - [Live Version](https://travel-tour-website.netlify.app/) • [Repository](https://github.com/ajiiz/travel-tour-website)
+  5. travel tour (Static Site) - [Live Version](https://travel-tour-website.netlify.app/) • [Repository](https://github.com/ajiiz/travel-tour-website)
 
 * Regularly used: `.js` `.scss` `.py`
 * Rarely used: `.java` `.cpp` `.sql`

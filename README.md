@@ -18,8 +18,8 @@ Mainly interested in Web Development.</p>
   
   5. travel tour (Static Site) - [Live Version](https://travel-tour-website.netlify.app/) • [Repository](https://github.com/ajiiz/travel-tour-website)
 
-* Regularly used: `.js` `.scss` `.py`
-* Rarely used: `.java` `.cpp` `.sql`
+* Regularly used: `.js` `.jsx` `.ts` `.tsx` `.scss` 
+* Rarely used: `.java` `.py` `.cpp` `.sql`
 * I like *swimming, travelling, photography and coding of course.*
 * Contact me via e-mail: • piotrwrobel.ajiiz@gmail.com •
 * DM me on ig: • <a href="https://www.instagram.com/pvvrbl/">instagram</a> •

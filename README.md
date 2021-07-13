@@ -4,7 +4,7 @@ Second year IT student at University of Silesia.<br />
 Mainly interested in Web Development.</p>
 
 ## About
-* I’m currently learning **React**.
+* I’m currently learning **Redux/Node/Express**.
 * I’m currently working on *portfolio website*.
 * Recently made
 

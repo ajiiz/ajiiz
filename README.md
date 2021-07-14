@@ -21,6 +21,6 @@ Mainly interested in Web Development.</p>
 * Regularly used: `.js` `.jsx` `.ts` `.tsx` `.scss` 
 * Rarely used: `.java` `.py` `.cpp` `.sql`
 * I like *swimming, travelling, photography and coding of course.*
-* Contact me via e-mail: • piotrwrobel.ajiiz@gmail.com •
-* DM me on ig: • <a href="https://www.instagram.com/pvvrbl/">instagram</a> •
-* Other links: • <a href="https://www.hackerrank.com/ajiiz"> hackerank</a> • <a href="https://www.freecodecamp.org/ajiiz">freecodecamp</a> • <a href="https://www.frontendmentor.io/profile/ajiiz">frontendmentor</a> • <a href="https://codepen.io/ajiiz/pens/public">codepen</a> •
+* Contact me via e-mail: • piotrwrobel.ajiiz@gmail.com • 
+* Contact me via linked-in: • <a href="https://www.linkedin.com/in/piotrwrobel-ajiiz/">linkedin</a> •
+* Other links: • <a href="https://www.hackerrank.com/ajiiz"> hackerank</a> • <a href="https://www.freecodecamp.org/ajiiz">freecodecamp</a> • <a href="https://www.frontendmentor.io/profile/ajiiz">frontendmentor</a> • <a href="https://codepen.io/ajiiz/pens/public">codepen</a> • <a href="https://www.instagram.com/pvvrbl/">instagram</a> •

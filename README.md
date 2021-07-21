@@ -8,15 +8,17 @@ Mainly interested in Web Development.</p>
 * I’m currently working on *link space webapp*.
 * Recently made
 
-  1. pw-ajiiz-blog (MERN Stack) - [Live Version](https://pw-ajiiz-blog.netlify.app/) • [Repository](https://github.com/ajiiz/pw-ajiiz-blog)
-  
-  2. niteczki-daneczki - [Live Version](https://niteczki-daneczki.netlify.app/) • [Repository](https://github.com/ajiiz/niteczki-daneczki-website)
+  1. pw-ajiiz-blog - [Live Version](https://pw-ajiiz-blog.netlify.app/) • [Repository](https://github.com/ajiiz/pw-ajiiz-blog)
 
-  3. room-homepage - [Live Version](https://room-home-ajiiz.netlify.app/home) • [Repository](https://github.com/ajiiz/room-homepage-react)
+  2. blog-landingi - [Live Version](https://github.com/ajiiz/blog-landingi-react) • [Repository](https://github.com/ajiiz/blog-landingi-react)
   
-  4. plant-spot (Static Site with API calls) - [Live Version](https://plantspot.netlify.app/) • [Repository](https://github.com/ajiiz/plants-react-app) 
+  3. niteczki-daneczki - [Live Version](https://niteczki-daneczki.netlify.app/) • [Repository](https://github.com/ajiiz/niteczki-daneczki-website)
+
+  4. room-homepage - [Live Version](https://room-home-ajiiz.netlify.app/home) • [Repository](https://github.com/ajiiz/room-homepage-react)
   
-  5. travel tour (Static Site) - [Live Version](https://travel-tour-website.netlify.app/) • [Repository](https://github.com/ajiiz/travel-tour-website)
+  5. plant-spot - [Live Version](https://plantspot.netlify.app/) • [Repository](https://github.com/ajiiz/plants-react-app) 
+  
+
 
 * Regularly used: `.js` `.jsx` `.ts` `.tsx` `.scss` 
 * Rarely used: `.java` `.py` `.cpp` `.sql`

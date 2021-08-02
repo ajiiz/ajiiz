@@ -4,7 +4,7 @@ Third year IT student at University of Silesia.<br />
 Mainly interested in Web Development.</p>
 
 ## About
-* I’m currently learning **Redux/Node/Express**.
+* I’m currently learning **React/Redux/Node/Express**.
 * I’m currently working on *link space webapp*.
 * Recently made
 

@@ -5,7 +5,6 @@ Mainly interested in Web Development.</p>
 
 ## About
 * Tech stack: 
-   
    `javascript` `typescript` `react` `redux` 
   
   `css/scss` `styled-components` 

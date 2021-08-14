@@ -4,8 +4,9 @@ Third year IT student at University of Silesia.<br />
 Mainly interested in Web Development.</p>
 
 ## About
-* I’m currently learning **NextJS/Redux-toolkit**.
-* I’m currently working on *link space webapp*.
+* Tech stack: `javascript` `typescript` `react` `redux` `css/scss` `styled-components` `nodejs` `express` `npm/yarn` `git-fork`
+* Currently learning: `nextjs` `redux-toolkit` `gatsby` `prisma` `postgresql` 
+* Currently working on *link space webapp*.
 * Recently made
 
   1. pw-ajiiz-blog - [Live Version](https://pw-ajiiz-blog.netlify.app/) • [Repository](https://github.com/ajiiz/pw-ajiiz-blog)
@@ -17,9 +18,7 @@ Mainly interested in Web Development.</p>
   4. room-homepage - [Live Version](https://room-home-ajiiz.netlify.app/home) • [Repository](https://github.com/ajiiz/room-homepage-react)
   
   5. plant-spot - [Live Version](https://plantspot.netlify.app/) • [Repository](https://github.com/ajiiz/plants-react-app) 
-
-* Regularly used: `.js` `.jsx` `.ts` `.tsx` `.scss` `styled-components` 
-* Technologies and languages I use: `javascript` `typescript` `react` `redux` `css/scss` `styled-components`
+ 
 * I like *swimming, travelling, photography and coding of course.*
 * Contact me via e-mail: • piotrwrobel.ajiiz@gmail.com • 
 * Contact me via linked-in: • <a href="https://www.linkedin.com/in/piotrwrobel-ajiiz/">linkedin</a> •

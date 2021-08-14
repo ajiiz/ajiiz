@@ -4,7 +4,11 @@ Third year IT student at University of Silesia.<br />
 Mainly interested in Web Development.</p>
 
 ## About
-* Tech stack: `javascript` `typescript` `react` `redux` `css/scss` `styled-components` `node` `express` `npm/yarn` `git-fork` `prettier`
+* Tech stack: 
+  `javascript` `typescript` `react` `redux` 
+  `css/scss` `styled-components` 
+  `node` `express` 
+  `npm/yarn` `git-fork` `prettier`
 * Currently learning: `nextjs` `redux-toolkit` `gatsby` `prisma` `postgresql` 
 * Currently working on *link space webapp*.
 * Recently made

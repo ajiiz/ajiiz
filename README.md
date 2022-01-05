@@ -1,7 +1,7 @@
 <h2>Hi </h2>
 <p>I'm Piotr Wrobel.<br />
 Third year IT student at University of Silesia.<br />
-Mainly interested in Web Development.</p>
+Mainly interested in Web Development and Design.</p>
 
 ## About
 * Tech stack

@@ -7,10 +7,10 @@ Mainly interested in Web Development and Design.</p>
 * Tech stack
 
   `javascript` `typescript` `react/redux` `css/scss` `styled-components` `node/express` `npm/yarn` `git-fork`
-  
+  `nextjs` `redux-toolkit` `prisma`
 * Currently learning
 
-  `nextjs` `redux-toolkit` `prisma`
+  `design` `tailwindcss`
    
 * Check my <a href="https://piotrwrobel.vercel.app/">portfolio</a>
 * I like *electronic music, swimming, photography and coding of course.*

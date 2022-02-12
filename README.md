@@ -10,7 +10,7 @@ Mainly interested in Web Development and Design.</p>
   `nextjs` `redux-toolkit` `prisma`
 * Currently learning
 
-  `design` `tailwindcss`
+  `aws`
    
 * Check my <a href="https://piotrwrobel.vercel.app/">portfolio</a>
 * I like *electronic music, swimming, photography and coding of course.*

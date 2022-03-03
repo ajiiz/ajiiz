@@ -6,8 +6,8 @@ Mainly interested in Web Development and Design.</p>
 ## About
 * Tech stack
 
-  `javascript` `typescript` `react/redux` `css/scss` `styled-components` `node/express` `npm/yarn` `git-fork`
-  `nextjs` `redux-toolkit` `prisma`
+  `typescript` `nextjs` `react/redux` `styled-components` `node/express` `css/scss` `npm/yarn` `git-fork`
+  `redux-toolkit` `axios` `prisma`
 * Currently learning
 
   `aws`

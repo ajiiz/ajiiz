@@ -12,7 +12,7 @@ Mainly interested in Web Development and Design.</p>
 
   `AWS` `Docker` `CI/CD`
    
-* Portfolio <a href="https://piotrwrobel.vercel.app/">piotrwrobel.xyz</a>
+* Portfolio <a href="https://piotrwrobel.xyz">piotrwrobel.xyz</a>
 * I like *electronic music, swimming, photography and coding of course.*
 * *Arizona Green Tea enthusiast*.
 * Contact me via: • piotrwrobel.ajiiz@gmail.com • <a href="https://www.linkedin.com/in/piotrwrobel-ajiiz/">linkedin</a>

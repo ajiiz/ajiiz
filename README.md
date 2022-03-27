@@ -10,7 +10,7 @@ Mainly interested in Web Development and Design.</p>
   `redux-toolkit` `axios` `prisma`
 * Currently learning
 
-  `AWS`
+  `AWS` `Docker` `CI/CD`
    
 * Check my <a href="https://piotrwrobel.vercel.app/">portfolio</a>
 * I like *electronic music, swimming, photography and coding of course.*

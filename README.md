@@ -20,9 +20,6 @@ Mainly interested in Web Development and Design.</p>
 * My initial typescript <a href="https://github.com/ajiiz/ts-project-config">config</a> files
 
 ---
-
-### 📈 My stats
- 
+### My stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajiiz&count_private=true&show_icons=true&include_all_commits=true&theme=vue" />
-
 ---

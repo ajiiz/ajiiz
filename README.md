@@ -2,7 +2,7 @@
 <p>I'm Piotr Wrobel.<br />
 Third year IT student at University of Silesia.<br />
 Mainly interested in Web Development and Design.<br />
-Currently working at [@dreamstormstudios](https://dreamstormstudios.com/) as React Developer</p>
+Currently working at <a href="https://dreamstormstudios.com/">@dreamstormstudios</a> as React Developer</p>
 
 ## About
 * Tech stack

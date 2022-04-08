@@ -4,7 +4,7 @@ Third year IT student at University of Silesia.<br />
 Mainly interested in Web Development and Design.<br />
 Currently working at <a href="https://dreamstormstudios.com/">@dreamstormstudios</a> as React Developer</p>
 
-* Portfolio <a href="https://piotrwrobel.xyz">piotrwrobel.xyz</a>
+* **Portfolio <a href="https://piotrwrobel.xyz">piotrwrobel.xyz</a>**
 * Contact me via: • piotrwrobel.ajiiz@gmail.com • <a href="https://www.linkedin.com/in/piotrwrobel-ajiiz/">linkedin</a>
 * Other links: • <a href="https://gitlab.com/ajiiz">gitlab</a> • <a href="https://www.hackerrank.com/ajiiz"> hackerank</a> • <a href="https://www.freecodecamp.org/ajiiz">freecodecamp</a> • <a href="https://www.frontendmentor.io/profile/ajiiz">frontendmentor</a> • <a href="https://codepen.io/ajiiz/pens/public">codepen</a> • <a href="https://www.instagram.com/pvvrbl/">instagram</a> • <a href="https://gist.github.com/ajiiz/">gist</a>
 * My initial typescript <a href="https://github.com/ajiiz/ts-project-config">config</a> files
@@ -41,6 +41,7 @@ Currently working at <a href="https://dreamstormstudios.com/">@dreamstormstudios
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ajiiz)
 
 ##
 

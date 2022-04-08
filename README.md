@@ -45,4 +45,5 @@ Currently working at <a href="https://dreamstormstudios.com/">@dreamstormstudios
 
 ##
 [![wakatime since Apr 8 2022](https://wakatime.com/badge/user/5bbe3042-151f-495f-9727-94a83117a408.svg)](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19)
+<br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajiiz&count_private=true&show_icons=true&include_all_commits=true&theme=vue" />

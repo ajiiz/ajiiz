@@ -44,6 +44,6 @@ Currently working at <a href="https://dreamstormstudios.com/">@dreamstormstudios
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ajiiz)
 
 ##
-[![wakatime since Apr 8 2022](https://wakatime.com/badge/user/e75b442a-c4ec-45ca-84ab-29826e060e19.svg)](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19) since Apr 8 2022
+[![wakatime since Apr 8 2022](https://wakatime.com/badge/user/e75b442a-c4ec-45ca-84ab-29826e060e19.svg)](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19) #### since Apr 8 2022
 <br /><br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajiiz&count_private=true&show_icons=true&include_all_commits=true&theme=vue" />

@@ -48,3 +48,5 @@ Currently working at <a href="https://piotrwrobel.xyz/">undefined</a> as React D
 [![wakatime since Apr 8 2022](https://wakatime.com/badge/user/e75b442a-c4ec-45ca-84ab-29826e060e19.svg)](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19)
 <br /><br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajiiz&count_private=true&show_icons=true&include_all_commits=true&theme=vue" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajiiztheme=vue&count_private=true&show_icons=true&include_all_commits=true" />

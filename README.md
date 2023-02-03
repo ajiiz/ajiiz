@@ -2,7 +2,7 @@
 <p>I'm Piotr Wrobel.<br />
 Third year IT student at University of Silesia.<br />
 Mainly interested in Web Development and Design.<br />
-Currently working at <a href="https://limur.pl/">Limur</a> as React Developer</p>
+Currently working at <a href="https://limur.pl/">@limur</a> as React Developer</p>
 
 * **Portfolio <a href="https://piotrwrobel.xyz">piotrwrobel.xyz</a>**
 * Commercial <a href="https://github.com/ajiiz/commercial-projects">projects</a> that I have participated in.

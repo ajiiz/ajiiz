@@ -1,6 +1,6 @@
 <h2>Hi </h2>
 <p>I'm Piotr Wrobel.<br />
-Third year IT student at University of Silesia.<br />
+I recently finished my degree at University of Silesia.<br />
 Mainly interested in Web Development and Design.<br />
 Currently working at <a href="https://limur.pl/">Limur</a> as React Developer</p>
 

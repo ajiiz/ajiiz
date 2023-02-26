@@ -1,8 +1,7 @@
 <h2>Hi </h2>
-<p>I'm Piotr Wrobel.<br />
-A software developer based in Poland.<br />
-I recently finished my degree at University of Silesia.<br />
+<p>I'm Piotr Wrobel. A software developer based in Poland. I recently finished my degree at University of Silesia.<br />
 Mainly interested in Web Development and Design.<br />
+
 Currently working at <a href="https://limur.pl/">Limur</a> as React Developer</p>
 
 * **Portfolio <a href="https://piotrwrobel.xyz">piotrwrobel.xyz</a>**

@@ -1,6 +1,6 @@
 <h2>Hey,</h2>
 <p>I'm Piotr Wrobel, a software developer based in Poland. I recently finished my degree at University of Silesia.<br />
-Mainly interested in web development, design and softwareengineering.<br />
+Mainly interested in web development, design and software engineering.<br />
 
 Currently working at <a href="https://limur.pl/">Limur</a> as React Developer</p>
 
@@ -12,7 +12,7 @@ Currently working at <a href="https://limur.pl/">Limur</a> as React Developer</p
 * I like *electronic music, swimming, photography and coding of course.*
 * *Arizona Green Tea and Coke enthusiast*.
 
-Let's deploy our ideas together, reach me out!
+Let's deploy our ideas together, reach out to me!
 
 ## Tech stack
 

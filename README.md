@@ -4,7 +4,7 @@ Mainly interested in web development, design and software engineering.<br />
 
 Currently working at <a href="https://limur.pl/">Limur</a> as React Developer</p>
 
-* **Portfolio <a href="https://pwrobel.xyz">piotrwrobel.xyz</a>**
+* **Portfolio <a href="https://pwrobel.xyz">pwrobel.xyz</a>**
 * Commercial <a href="https://github.com/ajiiz/commercial-projects">projects</a> that I have participated in.
 * Contact me via: • piotrwrobel.ajiiz@gmail.com • <a href="https://www.linkedin.com/in/piotrwrobel-ajiiz/">linkedin</a>
 * Other links: • <a href="https://gitlab.com/ajiiz">gitlab</a> • <a href="https://www.hackerrank.com/ajiiz"> hackerank</a> • <a href="https://www.freecodecamp.org/ajiiz">freecodecamp</a> • <a href="https://www.frontendmentor.io/profile/ajiiz">frontendmentor</a> • <a href="https://codepen.io/ajiiz/pens/public">codepen</a> • <a href="https://www.instagram.com/pvvrbl/">instagram</a> • <a href="https://gist.github.com/ajiiz/">gist</a>

@@ -7,7 +7,7 @@ Currently working at <a href="https://limur.pl/">Limur</a> as React Developer</p
 * **Portfolio <a href="https://pwrobel.xyz">pwrobel.xyz</a>**
 * Commercial <a href="https://github.com/ajiiz/commercial-projects">projects</a> that I have participated in.
 * Contact me via: • piotrwrobel.ajiiz@gmail.com • <a href="https://www.linkedin.com/in/piotrwrobel-ajiiz/">linkedin</a>
-* Other links: • <a href="https://gitlab.com/ajiiz">gitlab</a> • <a href="https://www.hackerrank.com/ajiiz"> hackerank</a> • <a href="https://stackoverflow.com/users/17758295/ajiiz">stack overlow</a> • <a href="https://www.instagram.com/pvvrbl/">instagram</a> • <a href="https://gist.github.com/ajiiz/">gist</a>
+* Other links: • <a href="https://gitlab.com/ajiiz">gitlab</a> • <a href="https://www.hackerrank.com/ajiiz"> hackerank</a> • <a href="https://stackoverflow.com/users/17758295/ajiiz">stack overflow</a> • <a href="https://gist.github.com/ajiiz/">gist</a>
 * My initial typescript <a href="https://github.com/ajiiz/ts-project-config">config</a> files
 * I like *electronic music, swimming, photography and coding of course.*
 * *Arizona Green Tea and Coke enthusiast*.

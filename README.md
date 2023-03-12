@@ -2,7 +2,9 @@
 <p>I'm Piotr Wrobel, a software developer based in Poland. I recently finished my degree at University of Silesia.<br />
 Mainly interested in web development, design and software engineering.<br />
 
-Currently working at <a href="https://limur.pl/">Limur</a> as React Developer</p>
+Working at <a href="https://limur.pl/">Limur</a> as React Developer</p>
+
+Moving forward with my new portfolio website atm.
 
 * **Portfolio <a href="https://pwrobel.xyz">pwrobel.xyz</a>**
 * Commercial <a href="https://github.com/ajiiz/commercial-projects">projects</a> that I have participated in.

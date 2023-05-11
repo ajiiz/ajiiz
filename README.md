@@ -50,6 +50,7 @@ Let's deploy our ideas together, reach out to me!
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ajiiz)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-45b8d8?style=flat-square&logo=bitbucket&logoColor=white)](https://gitlab.com/ajiiz)
 
 ##
 [![wakatime since Apr 8 2022](https://wakatime.com/badge/user/e75b442a-c4ec-45ca-84ab-29826e060e19.svg)](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19)

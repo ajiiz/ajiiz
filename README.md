@@ -42,7 +42,7 @@ Let's deploy our ideas together, reach out to me!
 [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 #### Mobile
-![React Native](https://img.shields.io/badge/-Native-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
+[![React Native](https://img.shields.io/badge/-Native-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
 #### Tools
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)

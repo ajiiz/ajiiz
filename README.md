@@ -45,7 +45,7 @@ Let's deploy our ideas together, reach out to me!
 
 #### Testing
 [![Jest](https://img.shields.io/static/v1?style=flat-square&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)](https://jestjs.io/)
-[![RTL](https://img.shields.io/static/v1?style=flat-square&message=RTL&color=E9113B&logo=RTL&logoColor=FFFFFF&label=)](https://testing-library.com/docs/react-testing-library/intro/)
+[![RTL](https://img.shields.io/static/v1?style=flat-square&message=Testing+Library&color=E33332&logo=Testing+Library&logoColor=FFFFFF&label=)](https://testing-library.com/docs/react-testing-library/intro/)
 [![Vitest](https://img.shields.io/static/v1?style=flat-square&message=Vitest&color=6E9F18&logo=Vitest&logoColor=FFFFFF&label=)](https://vitest.dev/)
 [![Cypress](https://img.shields.io/static/v1?style=flat-square&message=Cypress&color=17202C&logo=Cypress&logoColor=FFFFFF&label=)](https://www.cypress.io/)
 

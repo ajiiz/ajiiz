@@ -32,7 +32,6 @@ Let's deploy our ideas together, reach out to me!
 
 #### Back-end
 [![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
-[![NestJS](https://img.shields.io/badge/NestJS-404D59?style=flat-square&color=white&logo=nestjs&logoColor=red)](https://nestjs.com/)
 [![NestJS](https://img.shields.io/static/v1?style=flat-square&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)](https://nestjs.com/)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Swagger](https://img.shields.io/static/v1?style=flat-square&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)](https://swagger.io/)

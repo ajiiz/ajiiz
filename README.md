@@ -42,9 +42,8 @@ Let's deploy our ideas together, reach out to me!
 [![React Native](https://img.shields.io/badge/-Native-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
 #### Tools
-![Yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=)
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=)](https://yarnpkg.com/)
+[![yarn](https://img.shields.io/static/v1?style=flat-square&message=yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=)](https://yarnpkg.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)

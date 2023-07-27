@@ -20,19 +20,22 @@ Let's deploy our ideas together, reach out to me!
 
 #### General
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/static/v1?style=flat-square&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)](https://www.typescriptlang.org/)
 
 #### Front-end
 [![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Vite](https://img.shields.io/badge/-Vite-15b8d8?style=flat-square&color=yellow&logo=vite)](https://vitejs.dev/)
+[![Vite](https://img.shields.io/static/v1?style=flat-square&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)](https://vitejs.dev/)
 [![Redux Tollkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-[![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![styled-components](https://img.shields.io/static/v1?style=flat-square&message=styled-components&color=DB7093&logo=styled-components&logoColor=FFFFFF&label=)](https://styled-components.com/)
 [![Ant Design](https://img.shields.io/badge/-Ant%20Design-0081CB?style=flat-square&logo=ant-design&logoColor=white)](https://ant.design/)
 
 #### Back-end
 [![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
 [![NestJS](https://img.shields.io/badge/NestJS-404D59?style=flat-square&color=white&logo=nestjs&logoColor=red)](https://nestjs.com/)
+[![NestJS](https://img.shields.io/static/v1?style=flat-square&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)](https://nestjs.com/)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Swagger](https://img.shields.io/static/v1?style=flat-square&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)](https://swagger.io/)
 
 #### Database
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -41,13 +44,20 @@ Let's deploy our ideas together, reach out to me!
 #### Mobile
 [![React Native](https://img.shields.io/badge/-Native-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
+#### Testing
+[![Jest](https://img.shields.io/static/v1?style=flat-square&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)](https://jestjs.io/)
+[![RTL](https://img.shields.io/static/v1?style=flat-square&message=RTL&color=E9113B&logo=RTL&logoColor=FFFFFF&label=)](https://testing-library.com/docs/react-testing-library/intro/)
+[![Vitest](https://img.shields.io/static/v1?style=flat-square&message=Vitest&color=6E9F18&logo=Vitest&logoColor=FFFFFF&label=)](https://vitest.dev/)
+[![Cypress](https://img.shields.io/static/v1?style=flat-square&message=Cypress&color=17202C&logo=Cypress&logoColor=FFFFFF&label=)](https://www.cypress.io/)
+
+
 #### Tools
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![yarn](https://img.shields.io/static/v1?style=flat-square&message=yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=)](https://yarnpkg.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![GitHub](https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/ajiiz)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ajiiz)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-45b8d8?style=flat-square&logo=bitbucket&logoColor=white)](https://gitlab.com/ajiiz)
 

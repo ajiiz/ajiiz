@@ -67,4 +67,4 @@ Let's deploy our ideas together, reach out to me!
 ##
 [![wakatime since Apr 8 2022](https://wakatime.com/badge/user/e75b442a-c4ec-45ca-84ab-29826e060e19.svg)](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19)
 <br /><br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajiiz&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajiiz&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />--!>

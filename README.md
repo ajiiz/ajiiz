@@ -11,8 +11,9 @@ Moving forward with my new portfolio website atm.
 * Contact me via: • piotrwrobel.ajiiz@gmail.com • <a href="https://www.linkedin.com/in/piotrwrobel-ajiiz/">linkedin</a>
 * Other links: • <a href="https://gitlab.com/ajiiz">gitlab</a> • <a href="https://www.hackerrank.com/ajiiz"> hackerank</a> • <a href="https://stackoverflow.com/users/17758295/ajiiz">stack overflow</a> • <a href="https://gist.github.com/ajiiz/">gist</a> • <a href="https://github.com/ajiiz/ts-project-config">config</a>
 * <a href="https://open.spotify.com/playlist/3GvbYBnKasnSzlftzpVWIS?si=1408edb98ed24099">future / garage</a> playlist for coding
-* Likings *house dj, swimming, photography and coding of course.*
+* Likings *house dj, vinyls and photography.*
 * *Arizona Green Tea and Coke enthusiast*.
+* RYSY enjoyer.
 
 Let's deploy our ideas together, reach out to me!
 

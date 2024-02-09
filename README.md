@@ -12,7 +12,7 @@ Moving forward with my new portfolio website atm.
 * Other links: • <a href="https://gitlab.com/ajiiz">gitlab</a> • <a href="https://www.hackerrank.com/ajiiz"> hackerank</a> • <a href="https://stackoverflow.com/users/17758295/ajiiz">stack overflow</a> • <a href="https://gist.github.com/ajiiz/">gist</a> • <a href="https://github.com/ajiiz/ts-project-config">config</a>
 * Check out <a href="https://open.spotify.com/user/11156370821?si=4d2e93adbbb54fc3">my playlists</a>
 * Likings *house dj, vinyls and photography.*
-* *Arizona Green Tea and Coke enthusiast*.
+* *Arizona Green Tea and Fritz-Kola enthusiast*.
 * RYSY enjoyer.
 
 Let's deploy our ideas together, reach out to me!

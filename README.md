@@ -55,8 +55,6 @@ Let's deploy our ideas together, reach out to me!
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![yarn](https://img.shields.io/static/v1?style=flat-square&message=yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=)](https://yarnpkg.com/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/ajiiz)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ajiiz)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-45b8d8?style=flat-square&logo=bitbucket&logoColor=white)](https://gitlab.com/ajiiz)

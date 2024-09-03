@@ -9,7 +9,6 @@ Moving forward with my new portfolio website atm.
 * **Portfolio <a href="https://piotrwrobel.eu">piotrwrobel.eu</a>**
 * Commercial <a href="https://github.com/ajiiz/commercial-projects">projects</a> that I have participated in.
 * Contact me via: • piotrwrobel.ajiiz@gmail.com • <a href="https://www.linkedin.com/in/piotrwrobel-ajiiz/">linkedin</a>
-* Other links: • <a href="https://gitlab.com/ajiiz">gitlab</a> • <a href="https://www.hackerrank.com/ajiiz"> hackerank</a> • <a href="https://stackoverflow.com/users/17758295/ajiiz">stack overflow</a> • <a href="https://github.com/ajiiz/ts-project-config">config</a>
 * Check out my <a href="https://open.spotify.com/user/11156370821?si=4d2e93adbbb54fc3">spotify</a>
 * Likings *dj, vinyls and photography.*
 * RYSY enjoyer.

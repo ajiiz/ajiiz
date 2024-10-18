@@ -7,7 +7,7 @@ Working at <a href="https://limur.pl/">Limur</a> as React Developer</p>
 Moving forward with my new portfolio website atm.
 
 * Commercial <a href="https://github.com/ajiiz/commercial-projects">projects</a> that I have participated in.
-* E-mail: • piotrwrobel.ajiiz@gmail.com •
+* E-mail: piotrwrobel.ajiiz@gmail.com
 * Links: <a href="https://bento.me/piotrwrobel">bento.me</a>
 * Likings *running, vinyls and photography.*
 * RYSY enjoyer.

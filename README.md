@@ -1,19 +1,16 @@
 <h2>Hey,</h2>
-<p>I'm Piotr Wrobel, a software developer based in Poland. I recently finished my degree at University of Silesia.<br />
+<p>I'm Piotr Wrobel, a software developer based in Poland. CS Graduate at University of Silesia.<br />
 Mainly interested in web development, design and software engineering.<br />
 
 Working at <a href="https://limur.pl/">Limur</a> as React Developer</p>
 
 Moving forward with my new portfolio website atm.
 
-* **Portfolio <a href="https://piotrwrobel.eu">piotrwrobel.eu</a>**
 * Commercial <a href="https://github.com/ajiiz/commercial-projects">projects</a> that I have participated in.
-* Contact me via: • piotrwrobel.ajiiz@gmail.com • <a href="https://www.linkedin.com/in/piotrwrobel-ajiiz/">linkedin</a>
-* Check out my <a href="https://open.spotify.com/user/11156370821?si=4d2e93adbbb54fc3">spotify</a>
-* Likings *dj, vinyls and photography.*
+* E-mail: • piotrwrobel.ajiiz@gmail.com •
+* Links: <a href="https://bento.me/piotrwrobel">bento.me</a>
+* Likings *running, vinyls and photography.*
 * RYSY enjoyer.
-
-Let's deploy our ideas together, reach out to me!
 
 ## Tech stack
 

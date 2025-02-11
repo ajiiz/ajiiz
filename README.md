@@ -25,7 +25,6 @@ Moving forward with my new portfolio website atm.
 [![Redux Tollkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![styled-components](https://img.shields.io/static/v1?style=flat-square&message=styled-components&color=DB7093&logo=styled-components&logoColor=FFFFFF&label=)](https://styled-components.com/)
 [![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Ant Design](https://img.shields.io/badge/-Ant%20Design-0081CB?style=flat-square&logo=ant-design&logoColor=white)](https://ant.design/)
 
 #### Back-end
 [![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)

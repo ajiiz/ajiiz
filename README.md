@@ -1,10 +1,10 @@
 <h2>Hey,</h2>
 <p>I'm Piotr Wrobel, a software developer based in Poland. CS Graduate at University of Silesia.<br />
-Mainly interested in web development, design and software engineering.<br />
+Mainly interested in web development, design and software engineering. AI-Driven Development enthusiast.<br />
 
-Working at <a href="https://limur.pl/">Limur</a> as React Developer</p>
+Working at <a href="https://limur.pl/">Limur</a> as React Developer.</p>
 
-Moving forward with my new portfolio website atm.
+Moving forward with my new portfolio website and focusing on developing innovative mobile application.
 
 * CV: <a href="https://read.cv/piotrwrobel">read.cv</a>
 * Links: <a href="https://bento.me/piotrwrobel">bento.me</a>

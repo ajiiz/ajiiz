@@ -1,6 +1,7 @@
 <h2>Hey,</h2>
 <p>I'm Piotr Wrobel, a software developer based in Poland. CS Graduate at University of Silesia.<br />
-Mainly interested in web development, design and software engineering. AI-Driven Development enthusiast.<br />
+Mainly interested in web development, design and software engineering. 
+AI-Driven Development enthusiast.<br />
 
 Working at <a href="https://limur.pl/">Limur</a> as React Developer.</p>
 

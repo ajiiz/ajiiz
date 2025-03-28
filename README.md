@@ -1,3 +1,5 @@
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/piotrwrobel-wrobit/)[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/wrobit_)[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/11156370821)
+
 <h2>Hey,</h2>
 <p>I'm Piotr Wrobel, a software developer based in Poland. CS Graduate at University of Silesia.<br />
 Mainly interested in web development, design and software engineering. 
@@ -21,13 +23,15 @@ Moving forward with my new portfolio website and focusing on developing innovati
 
 #### Front-end
 [![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-Native-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Native](https://img.shields.io/badge/-Native-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](https://expo.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Vite](https://img.shields.io/static/v1?style=flat-square&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)](https://vitejs.dev/)
 [![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff)](https://remix.run/)
 [![Redux Tollkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![styled-components](https://img.shields.io/static/v1?style=flat-square&message=styled-components&color=DB7093&logo=styled-components&logoColor=FFFFFF&label=)](https://styled-components.com/)
-[![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](https://storybook.js.org/)
 
 #### Back-end
 [![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
@@ -53,9 +57,6 @@ Moving forward with my new portfolio website and focusing on developing innovati
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![yarn](https://img.shields.io/static/v1?style=flat-square&message=yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=)](https://yarnpkg.com/)
 [![GitHub](https://img.shields.io/static/v1?style=flat-square&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/ajiiz)
-
-#### AI
-
 
 ##
 [![wakatime since Apr 8 2022](https://wakatime.com/badge/user/e75b442a-c4ec-45ca-84ab-29826e060e19.svg)](https://wakatime.com/@e75b442a-c4ec-45ca-84ab-29826e060e19)

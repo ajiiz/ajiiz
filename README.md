@@ -31,11 +31,9 @@ Moving forward with my new portfolio website and focusing on developing innovati
 #### Back-end
 [![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
 [![NestJS](https://img.shields.io/static/v1?style=flat-square&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)](https://nestjs.com/)
-[![Swagger](https://img.shields.io/static/v1?style=flat-square&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)](https://swagger.io/)
-
-#### Database
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Swagger](https://img.shields.io/static/v1?style=flat-square&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)](https://swagger.io/)
 
 #### Testing
 [![Jest](https://img.shields.io/static/v1?style=flat-square&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label=)](https://jestjs.io/)

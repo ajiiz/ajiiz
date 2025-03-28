@@ -1,13 +1,11 @@
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/piotrwrobel-wrobit/)[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/wrobit_)[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/11156370821)
-
 <h2>Hey,</h2>
 <p>I'm Piotr Wrobel, a software developer based in Poland. CS Graduate at University of Silesia.<br />
 Mainly interested in web development, design and software engineering. 
-AI-Driven Development enthusiast.<br />
+AI-Driven Development enthusiast.
 
-Working at <a href="https://limur.pl/">Limur</a> as React Developer.</p>
+Working at <a href="https://limur.pl/">Limur</a> as React Developer.
 
-Moving forward with my new portfolio website and focusing on developing innovative mobile application.
+Moving forward with my new portfolio website and focusing on developing innovative mobile application.</p>
 
 * CV: <a href="https://read.cv/piotrwrobel">read.cv</a>
 * Links: <a href="https://bento.me/piotrwrobel">bento.me</a>
@@ -15,7 +13,9 @@ Moving forward with my new portfolio website and focusing on developing innovati
 * Likings *running, vinyls and photography.*
 * RYSY enjoyer.
 
-## Tech stack
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/piotrwrobel-wrobit/) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/wrobit_) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/11156370821)
+
+### Tech stack
 
 #### General
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)

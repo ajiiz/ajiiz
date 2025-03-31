@@ -12,6 +12,7 @@ Moving forward with my new portfolio website and focusing on developing innovati
 * Contact: piotrwrobel.ajiiz@gmail.com
 * Likings *running, vinyls and photography.*
 * RYSY enjoyer.
+* B2B wrobit.
 
 ## Tech stack
 

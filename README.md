@@ -4,6 +4,7 @@ Mainly interested in web development, design and software engineering.
 AI-Driven Development enthusiast.
 
 Working at <a href="https://limur.pl/">Limur</a> as React Developer.
+Freelancing at <a href="https://ludusengine.com/">LudusAI</a> as Fullstack Web Developer.
 
 Moving forward with my new portfolio website and focusing on developing innovative mobile application.</p>
 
